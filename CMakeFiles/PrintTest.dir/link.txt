@@ -1,1 +1,0 @@
-clang -Wl,--dependency-file=CMakeFiles/PrintTest.dir/link.d CMakeFiles/PrintTest.dir/Tests/Print.c.o -o PrintTest

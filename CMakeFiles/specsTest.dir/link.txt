@@ -1,1 +1,0 @@
-clang -Wl,-O3 -Wl,--as-needed -Wl,--gc-sections -fuse-ld=lld -flto=full -Wl,--icf=all -Wl,-s -Wl,--strip-all -Wl,--hash-style=gnu -Wl,--version-script=ver.map -nostdlib -Wl,--dependency-file=CMakeFiles/specsTest.dir/link.d CMakeFiles/specsTest.dir/Tests/specsTest.c.o -o out/bin/specsTest  -lZooby

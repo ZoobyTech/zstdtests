@@ -1,1 +1,0 @@
-clang -Wl,-O3 -Wl,--as-needed -Wl,--gc-sections -fuse-ld=lld -flto=full -Wl,--icf=all -Wl,-s -Wl,--strip-all -Wl,--hash-style=gnu -Wl,--version-script=ver.map -nostdlib -Wl,--dependency-file=CMakeFiles/Memory.dir/link.d CMakeFiles/Memory.dir/Tests/Memory.c.o -o out/bin/Memory  -lZooby
