@@ -1,0 +1,1 @@
+clang -Wl,-O3 -Wl,--as-needed -Wl,--gc-sections -fuse-ld=lld -flto=full -Wl,--icf=all -Wl,-s -Wl,--strip-all -Wl,--hash-style=gnu -Wl,--version-script=ver.map -nostdlib -Wl,--dependency-file=CMakeFiles/Routines.dir/link.d CMakeFiles/Routines.dir/Tests/Routines.c.o -o out/bin/Routines  -lZooby

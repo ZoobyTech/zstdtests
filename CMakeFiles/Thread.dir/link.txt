@@ -1,0 +1,1 @@
+clang -Wl,-O3 -Wl,--as-needed -Wl,--gc-sections -fuse-ld=lld -flto=full -Wl,--icf=all -Wl,-s -Wl,--strip-all -Wl,--hash-style=gnu -Wl,--version-script=ver.map -Wl,--dependency-file=CMakeFiles/Thread.dir/link.d CMakeFiles/Thread.dir/Tests/Thread.c.o -o out/bin/Thread  -lZooby

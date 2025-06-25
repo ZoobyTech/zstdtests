@@ -1,0 +1,13 @@
+/home/mer/Github/zstdtests/CMakeFiles/DisplayMgr.dir
+/home/mer/Github/zstdtests/CMakeFiles/Memory.dir
+/home/mer/Github/zstdtests/CMakeFiles/PopenWindow.dir
+/home/mer/Github/zstdtests/CMakeFiles/Print.dir
+/home/mer/Github/zstdtests/CMakeFiles/Routines.dir
+/home/mer/Github/zstdtests/CMakeFiles/ThreadT.dir
+/home/mer/Github/zstdtests/CMakeFiles/Update.dir
+/home/mer/Github/zstdtests/CMakeFiles/siteTest.dir
+/home/mer/Github/zstdtests/CMakeFiles/specsTest.dir
+/home/mer/Github/zstdtests/CMakeFiles/zTests.dir
+/home/mer/Github/zstdtests/CMakeFiles/zoobyBin.dir
+/home/mer/Github/zstdtests/CMakeFiles/edit_cache.dir
+/home/mer/Github/zstdtests/CMakeFiles/rebuild_cache.dir
